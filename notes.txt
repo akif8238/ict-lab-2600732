@@ -1,0 +1,2 @@
+Git is a version control system.
+A repository stores your project and its history.
